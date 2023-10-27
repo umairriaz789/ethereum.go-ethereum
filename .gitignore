@@ -36,7 +36,6 @@ profile.cov
 .idea
 
 # VS Code
-.vscode
 
 # dashboard
 /dashboard/assets/flow-typed
@@ -50,3 +49,5 @@ profile.cov
 logs/
 
 tests/spec-tests/
+config.bat
+node_modules
